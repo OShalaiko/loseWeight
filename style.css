@@ -1,0 +1,212 @@
+/* стилі для losew1 */
+
+.container {
+             width: 100%;
+           }
+
+.header {
+/*    border: 1px solid red; */
+        }
+
+.content {
+          width: inherit;
+          margin-top: 3px;
+          margin-bottom: 3px;
+         }
+
+.footer {
+
+        }
+
+
+.i21proc {
+          width: 21%;
+          display: inline-block;
+         }
+
+.slogan {
+          width: 55%;
+          display: inline-block;
+          vertical-align: bottom;
+        }
+
+.slogan1 {
+/*    position: absolute; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+}
+
+.problema {
+           background-color: #ffc;
+           padding: 8px 15px 8px 15px;
+           border-radius: 1cm;
+         }
+
+.shminus {
+              background-color: #feebff;
+              padding-left: 10px;
+              padding-right: 10px;
+              border-radius: 1cm;
+              width: 48.5%;
+              display: inline-block;
+              vertical-align: center;
+          }
+
+.shplus {
+         background-color: #cbffbd;
+         padding-left: 10px;
+         padding-right: 10px;
+         border-radius: 1cm;
+         width: 48%;
+         display: inline-block;
+         vertical-align: top;
+        }
+
+.shresume {
+           background-color: #f5f5dc;
+           padding: 8px 15px 8px 15px;
+           border-radius: 1cm;
+          }
+
+.rekvizyty1 {
+             width: 27%;
+             display: inline-block;
+             padding-left: 15px;
+             padding-bottom: 10px;
+            }
+.nodiet {
+         padding-left: 0px;
+         padding-right: 10px;
+         width: 48%;
+         display: inline-block;
+        }
+
+.diet5 {
+        padding-left: 10px;
+        padding-right: 0px;
+        width: 48.5%;
+        display: inline-block;
+        vertical-align: top;
+       }
+
+.somecol {
+
+         }
+
+.diet1 {
+        width: 50%;
+        background-color: #deb887;
+    display: inline-block;
+       }
+
+.dietdescr {
+            width: 49%;
+            display: inline-block;
+            vertical-align: top;
+            padding-top: 40px;
+           }
+
+.nazvaadv{
+          vertical-align: top;
+          background-color: #d3d3d3;
+          padding-left: 10px;
+          padding-right: 10px;
+          width: 48%;
+          display: inline-block;
+         }
+
+.advdescr {
+           width: 48%;
+           display: inline-block;
+           vertical-align: top;
+           padding-top: 5px;
+          }
+
+.withoutd1 {
+            width: 50%;
+            display: inline-block;
+           }
+
+.advimg {
+          height: 190px;
+          display: inline-block;
+        }
+
+.zaglvk {
+         background-color: #d3d3d3;
+        }
+
+.el2minus {
+    background-color: #feebff;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 1cm;
+    width: 47%;
+    display: inline-block;
+    vertical-align: center;
+}
+
+.el2plus {
+    background-color: #cbffbd;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 1cm;
+    width: 46%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.whatisthis {
+             background-color: #deb887;
+             padding: 6px 15px 6px 15px;
+             border-radius: 0cm 1cm 1cm 1cm ;
+            }
+
+.compw100proc {
+               width: 100%;
+              }
+
+body {
+    text-align: justify;
+     }
+
+h1 {
+    text-align: center;
+   }
+
+h2 {
+    text-align: center;
+   }
+
+h3 {
+    text-align: center;
+   }
+
+em {
+    text-align: center;
+    color: navy;
+   }
+
+.txtright {
+           text-align: right;
+          }
+
+.ib {
+ /*         width: 55%; */
+     display: inline-block;
+     vertical-align: bottom;
+    }
+
+.orm {
+          padding-right: 10px;
+      }
+
+.olm {
+    padding-left: 15px;
+     }
+
+.lrm {
+       padding-right: 15px;
+       padding-left: 15px;
+     }
